@@ -20,3 +20,5 @@ Main Technologies:
     -React beautiful DnD
 
 <a href='https://66028bf5aa4d2dc197caac32--courageous-lamington-e77182.netlify.app/auth/login'>Kanban App Demo</a>
+
+![image](src/assets/sample.png)
