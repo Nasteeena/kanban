@@ -19,6 +19,4 @@ Main Technologies:
     -Firebase for storing data and authorization
     -React beautiful DnD
 
-<!-- <a href='https://6538afb374b30b63a783e602--celadon-dango-640a3d.netlify.app/'>Kanban App Demo</a> -->
-
-![image](src/img//gif.gif)
+<a href='https://66028bf5aa4d2dc197caac32--courageous-lamington-e77182.netlify.app/auth/login'>Kanban App Demo</a>
