@@ -1,0 +1,34 @@
+.button {
+    max-height: 50px;
+    margin-top: 10px;
+}
+
+.button:hover {
+    background-color: #d7d7e3;
+}
+
+.form {
+    padding: 10px;
+}
+
+.input {
+    border: 2px solid rgb(97, 97, 134);
+    padding:  5px;
+    border-radius: 3px;
+    outline: none;
+}
+
+.formAddButton, .formCloseButton {
+    background-color: #6696a5;
+}
+
+.formAddButton:hover,
+.formCloseButton:hover {
+    background-color: #9c9cc7;
+}
+
+.buttonDiv {
+    display: flex;
+    gap: 10px;
+    margin: 5px 0;
+}

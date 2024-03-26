@@ -2,17 +2,13 @@ import { useSelector } from 'react-redux';
 import { RootState } from '@/store/store';
 
 const useProjectList = () => {
-    const { 
-        projectList, 
-        projectListError, 
-        loader, 
-    } = useSelector((state: RootState) => state.project);
+	const { projects } = useSelector((state: RootState) => state.projects);
+	const { columns } = useSelector((state: RootState) => state.columns);
 
-    return {
-        projectList,
-        projectListError,
-        loader,
-    };
+	return {
+		projects,
+		columns,
+	};
 };
 
 export default useProjectList;

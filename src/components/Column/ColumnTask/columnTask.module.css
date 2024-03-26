@@ -1,0 +1,27 @@
+.column__header {
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    margin: 5px 0;
+    width: 100%;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.column__header:hover {
+    background-color: bisque;
+}
+
+.column__span {
+    overflow-wrap: anywhere;
+}
+
+.tags {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 3px 0;
+}

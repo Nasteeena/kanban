@@ -1,0 +1,27 @@
+.button {
+    padding: 13px 10px 12px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    background: var(--button-color);
+    border: none;
+    color: var(--white-color);
+    cursor: pointer;
+    height: 40px;
+    margin-top: 10px;
+    width: 100%;
+    
+}
+
+.button:hover {
+    background: #a14c7f;
+}
+
+.small {
+    width: 120px;
+}
+
+.big {
+    width: 220px;
+}

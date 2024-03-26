@@ -1,0 +1,25 @@
+.listItem {
+    color: white;
+    cursor: pointer;
+    margin: 5px 0;
+    border-radius: 3px;
+    display: flex;
+    padding: 5px 10px;
+}
+
+.listItemSidebar {
+    background-color: #af598d;
+    box-shadow: 4px 3px 42px 5px rgba(0, 0, 0, 0.23);
+}
+
+.listItemMain {
+    background-color: rgb(84, 84, 180);
+    margin-right: 10px;
+    width: 130px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 1;
+}
+

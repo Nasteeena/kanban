@@ -1,0 +1,13 @@
+.form__container {
+    display: flex;
+    align-items: center;
+}
+
+.formButton {
+    margin-left: 10px;
+    height: 20px;
+}
+
+.change__title {
+    width: 100%;
+}

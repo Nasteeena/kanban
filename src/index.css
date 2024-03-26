@@ -1,35 +1,40 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
+	font-family: 'Quicksand', sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
 
-  color: rgba(255, 255, 255, 0.87);
+	color: rgba(255, 255, 255, 0.87);
 
-  --white-color: #FFFFFF;
+	--white-color: #ffffff;
 
-  --button-color: #7F265B;
+	--button-color: #7f265b;
 
-  --authBackground-color: #FFE6C9;
+	--authBackground-color: #ffe6c9;
 }
 
 body {
-  margin: 0;
-  min-height: 100vh;
-  color: black;
+	margin: 0;
+	min-height: 100vh;
+	color: black;
 }
 
 a {
-  text-decoration: none;
+	text-decoration: none;
 }
 
-ul, li {
-  margin: 0;
-  padding: 0;
+ul,
+li {
+	margin: 0;
+	padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6, p {
-  margin: 0;
-  padding: 0;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+	margin: 0;
+	padding: 0;
 }
-
-

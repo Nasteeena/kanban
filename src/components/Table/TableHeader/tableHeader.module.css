@@ -1,0 +1,11 @@
+.header {
+    padding: 5px;
+    margin: 15px;
+    cursor: pointer;
+    width: 400px;
+}
+
+.header:hover {
+    border-radius: 5px;
+    background-color: pink;
+}

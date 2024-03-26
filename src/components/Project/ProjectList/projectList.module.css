@@ -1,0 +1,17 @@
+.projectList {
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.projectListMain {
+    flex-direction: row;
+    width: 60%;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.projectListSidebar {
+    flex-direction: column;
+}

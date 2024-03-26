@@ -1,0 +1,27 @@
+.select {
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+}
+
+.selectContainer {
+  width: 100%;
+  border: 1px solid black;
+  margin: 0 10px;
+}
+
+.delete__btn {
+  margin: 10px;
+}
+
+.title__span {
+  font-weight: 800;
+  margin: 0 3px;
+}
+
+.deleted__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
